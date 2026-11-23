@@ -1,9 +1,28 @@
-# Markdown Guide
+## Markdown Formatting Reference
 
-A repository focused on Markdown formatting and documentation.
+### Headings
 
-## Purpose
-Explore Markdown syntax for writing structured documents.
+# Heading 1
+## Heading 2
+### Heading 3
 
-## Getting Started
-Review the Markdown files in the repository.
+### Text Formatting
+
+**Bold text**
+
+*Italic text*
+
+### Lists
+
+- First item
+- Second item
+- Third item
+
+### Links
+
+[Open GitHub](https://github.com)
+
+### Code Blocks
+
+```javascript
+console.log("Hello World");
