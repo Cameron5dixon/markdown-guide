@@ -26,3 +26,12 @@
 
 ```javascript
 console.log("Hello World");
+## Manual Testing Checklist
+
+- [ ] Preview a Markdown document with headings and lists.
+- [ ] Verify that links and code blocks render correctly.
+- [ ] Check that fenced code blocks use matching delimiters.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
